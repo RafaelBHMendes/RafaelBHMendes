@@ -1,11 +1,11 @@
-##Olá, me chamo Rafael, tenho 24 anos, já trabalhei pra 2 empresas no exterior, amo desenvolvimento, sempre me mantendo atualizado no mundo da tecnologia, gosto de ler e escutar músicas
+## Olá, me chamo Rafael, tenho 24 anos, já trabalhei pra 2 empresas no exterior, amo desenvolvimento, sempre me mantendo atualizado no mundo da tecnologia, gosto de ler e escutar músicas
 
 ## Sobre mim
 
 - 🤔 Desenvolvedor Front end | Data Scientist.
-- 🎓 Estudando {Engenharia da Computação} na {Universidade Federal do Ceará}.
-- 💼 Trabalhando como {FullStack} como {freelancer}.
-- 🌱 Aprendendo mais sobre {blockchain, smart contracts e AI agents}.
+- 🎓 Estudando Engenharia da Computação na Universidade Federal do Ceará.
+- 💼 Trabalhando como FullStack como freelancer.
+- 🌱 Aprendendo mais sobre blockchain, smart contracts e AI agents.
 
 ## Minhas Skills
 
