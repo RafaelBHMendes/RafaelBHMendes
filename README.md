@@ -1,4 +1,4 @@
-## Olá, me chamo Rafael, tenho 24 anos, já trabalhei pra 2 empresas no exterior, amo desenvolvimento, sempre me mantendo atualizado no mundo da tecnologia, gosto de ler e escutar músicas
+## Olá, me chamo Rafael, tenho 25 anos, já trabalhei pra 2 empresas no exterior, amo desenvolvimento, sempre me mantendo atualizado no mundo da tecnologia, gosto de ler e escutar músicas
 
 ## Sobre mim
 
